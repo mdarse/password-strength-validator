@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "bjeavons/zxcvbn-php": "^0.1.4",
+        "bjeavons/zxcvbn-php": "^0.3",
         "symfony/validator": "~2.8|~3.0"
     },
     "require-dev": {
